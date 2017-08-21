@@ -4,6 +4,6 @@ info:
 foo: spring.cloud.config
 
 spring:
-  profiles: dev
+  profiles: dev1
 
 branch: develop
