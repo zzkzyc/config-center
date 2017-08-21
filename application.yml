@@ -1,0 +1,9 @@
+info:
+  description: spring cloud config repo
+
+foo: spring.cloud.config
+
+spring:
+  profiles: dev
+
+branch: develop

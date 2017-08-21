@@ -1,0 +1,10 @@
+dubbo:
+  port: -1
+  timeout: 10000
+  threads: 100
+  heartBeats: 10000
+
+description: 我在测试git的merge功能
+
+
+desc: 我是dev
